@@ -24,7 +24,7 @@ const Basics = () => (
       is overjoyed to have you with us. I can see that you are ready to charge
       off into action. Unfortunately, you will have to curb your enthusiasm for
       a bit, as our scheduled operations do not begin before{" "}
-      <em>1920 UK time, every Sunday and Tuesday.</em>
+      <em>1920 UK time, every Sunday and Thursday.</em>
     </p>
     <p>
       <b>The what now?</b>

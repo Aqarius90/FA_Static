@@ -59,13 +59,13 @@ const Header = ({ siteTitle }) => {
               className="btn btn-agit col-12 col-sm-4 col-lg-2"
               href="http://www.Discord.gg/0Z8wIyiaekveqtZ4"
             >
-              Discord
+              ➥ Discord
             </a>
             <a
               className="btn btn-agit col-12 col-sm-4 col-lg-2"
               href="https://www.folkarps.com/forum/"
             >
-              Forum
+              ➥ Forum
             </a>
           </div>
         </div>

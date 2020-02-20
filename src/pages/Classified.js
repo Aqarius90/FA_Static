@@ -1,4 +1,5 @@
 import React from "react"
+import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -6,35 +7,47 @@ import SEO from "../components/seo"
 const Classified = () => (
   <Layout>
     <SEO title="Classified" />
+
     <h2 className="c">Need to know</h2>
-    <p>
-      <b>Time:</b> Sun/Tues 1920 UK time.
-    </p>
-    <p>
-      <b>Teamspeak:</b> server.folkarps.com:9988.
-    </p>
-    <p>
-      <b>Server:</b> Folk ARPS, server.folkarps.com:2702
-    </p>
-    <p>
-      <b>Password:</b> freedom
-    </p>
-    <p>
-      <b>Discord:</b>{" "}
-      <a href="http://www.discord.gg/0Z8wIyiaekveqtZ4">
-        http://www.Discord.gg/0Z8wIyiaekveqtZ4
-      </a>
-    </p>
-    <p>
-      <b>Forum:</b>{" "}
-      <a href="http://www.folkarps.com/forum/">FolkARPS.com/forum/</a>
-    </p>
-    <p>
-      <b>Steam group:</b>{" "}
-      <a href="http://steamcommunity.com/groups/folkarps">
-        SteamCommunity.com/groups/folkarps
-      </a>
-    </p>
+    <div className="row">
+      <div className="col">
+        <p>
+          <b>Time:</b> Sun/Thurs 1920 UK time.
+        </p>
+        <p>
+          <b>Teamspeak:</b> server.folkarps.com:9988.
+        </p>
+        <p>
+          <b>Server:</b> Folk ARPS, server.folkarps.com:2702
+        </p>
+        <p>
+          <b>Password:</b> freedom
+        </p>
+      </div>
+      <div className="col">
+        <p>
+          <b>Discord:</b>{" "}
+          <a href="http://www.discord.gg/0Z8wIyiaekveqtZ4">
+            http://www.Discord.gg/0Z8wIyiaekveqtZ4
+          </a>
+        </p>
+        <p>
+          <b>Forum:</b>{" "}
+          <a href="http://www.folkarps.com/forum/">FolkARPS.com/forum/</a>
+        </p>
+        <p>
+          <b>Steam group:</b>{" "}
+          <a href="http://steamcommunity.com/groups/folkarps">
+            SteamCommunity.com/groups/folkarps
+          </a>
+        </p>
+
+        <p>
+          <b>TTIP:</b>{" "}
+          <Link to="/TTIP/TTIP">https://folkarps.com/TTIP/TTIP</Link>
+        </p>
+      </div>
+    </div>
     <p></p>
     <p></p>
     <h2 className="c">Optional mods and addons</h2>
