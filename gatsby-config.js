@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/FA_Static",
+  pathPrefix: "/",
   siteMetadata: {
     title: `Folk ARPS`,
     description: `The web site of the Third International Fighting Brigade of Takistan.`,

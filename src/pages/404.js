@@ -12,7 +12,11 @@ const NotFoundPage = () => (
     <p></p>
     <p></p>
     <p></p>
-    <img className="w-50 mx-auto" src={NKVD}></img>
+    <img
+      className="w-50 mx-auto"
+      alt="Tom & Jerry NKVD raid. Yes, really."
+      src={NKVD}
+    ></img>
     <h3 className="russian c">THIS INCIDENT HAS BEEN REPORTED</h3>
   </Layout>
 )

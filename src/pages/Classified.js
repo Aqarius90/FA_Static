@@ -71,7 +71,7 @@ const Classified = () => (
         >
           Community Base Addons
         </a>{" "}
-        - required for STUI, PE_ASR_AI, ARES, Others.
+        - required for STUI and some others.
       </li>
       <li>
         <a
@@ -129,23 +129,6 @@ const Classified = () => (
           Immerse
         </a>{" "}
         - Boom shake shake rattle and roll (your view).
-      </li>
-
-      <p>
-        <em>
-          <br />
-          Zeus Related Mods
-        </em>
-      </p>
-      <li>
-        <a
-          target="_blank"
-          rel="noopener noreferrer"
-          href="http://steamcommunity.com/sharedfiles/filedetails/?id=654177116"
-        >
-          Pooter's Enhanced ASR AI
-        </a>{" "}
-        - Recommended if you want to be Zeus for one of our Zeus missions.
       </li>
     </ul>
 
