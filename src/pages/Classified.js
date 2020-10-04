@@ -12,7 +12,7 @@ const Classified = () => (
     <div className="row">
       <div className="col">
         <p>
-          <b>Time:</b> Sun/Thurs 1920 UK time.
+          <b>Time:</b> Sunday, 1920 UK time.
         </p>
         <p>
           <b>Teamspeak:</b> server.folkarps.com:9988.

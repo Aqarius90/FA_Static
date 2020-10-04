@@ -24,13 +24,13 @@ const Basics = () => (
       is overjoyed to have you with us. I can see that you are ready to charge
       off into action. Unfortunately, you will have to curb your enthusiasm for
       a bit, as our scheduled operations do not begin before{" "}
-      <em>1920 UK time, every Sunday and Thursday.</em>
+      <em>1920 UK time, every Sunday.</em>
     </p>
     <p>
       <b>The what now?</b>
     </p>
     <p>
-      The sessions, of course! Twice a week, we will embark on a mix of Coop and
+      The sessions, of course! Every week, we will embark on a mix of Coop and
       PvP missions. Generally, they are affairs of 10-20 organized, focused
       individuals, who can be relied on to bring them to a close within 40 min,
       without resorting to revive or third person.
