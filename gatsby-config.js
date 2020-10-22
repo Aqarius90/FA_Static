@@ -4,6 +4,7 @@ module.exports = {
   siteMetadata: {
     title: `Folk ARPS`,
     description: `The web site of the Third International Fighting Brigade of Takistan.`,
+    site_name: "Folk ARPS",
     author: `DirtyHarry/Aqarius`,
   },
   plugins: [
