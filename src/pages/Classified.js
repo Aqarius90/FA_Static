@@ -81,7 +81,17 @@ const Classified = () => (
         >
           ShackTac User Interface
         </a>{" "}
-        - Highly recommended for situational awareness.
+        - Highly recommended for situational awareness. (Discontinued but may still be used)
+      </li>
+      <li>
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://steamcommunity.com/sharedfiles/filedetails/?id=1638341685"
+        >
+          DUI
+        </a>{" "}
+        - Modern successor to STUI. Use <i>in place</i> of STUI, not alongside.
       </li>
 
       <p>
@@ -129,6 +139,54 @@ const Classified = () => (
           Immerse
         </a>{" "}
         - Boom shake shake rattle and roll (your view).
+      </li>
+    </ul>
+    <p>
+      <b>
+        <br />
+        Zeus Related Mods
+      </b>
+    </p>
+    <ul>
+      <li>
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://steamcommunity.com/sharedfiles/filedetails/?id=1858075458"
+        >
+          LAMBS Danger
+        </a>{" "}
+        - Required if you want to be Zeus for one of our Zeus missions.
+      </li>
+      <li>
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://steamcommunity.com/sharedfiles/filedetails/?id=1862208264"
+        >
+          LAMBS Turrets
+        </a>{" "}
+        - Also required for any Zeus activities.
+      </li>
+      <li>
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://steamcommunity.com/sharedfiles/filedetails/?id=1808238502"
+        >
+          LAMBS Suppression
+        </a>{" "}
+        - Required for Zeus.
+      </li>
+      <li>
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://steamcommunity.com/sharedfiles/filedetails/?id=723217262"
+        >
+          Achilles
+        </a>{" "}
+        - Required for Zeus.
       </li>
     </ul>
 
@@ -184,7 +242,7 @@ const Classified = () => (
           href="http://i.imgur.com/oLPKQnV.jpg"
         >
           old ways of a2
-        </a>
+        </a>. DO NOT USE THE STEAM WORKSHOP VERSION.
       </li>
       <li>
         <a
@@ -208,7 +266,7 @@ const Classified = () => (
         counterparts
       </li>
     </ul>
-
+    <p>For both FA_gps+ and FA_map, the Arma 3 launcher will attempt to unload them when connecting to the server. The mods can in fact be used - just override the launcher by selecting "keep loaded" for each mod.</p>
     <p>
       <b>
         <br />
