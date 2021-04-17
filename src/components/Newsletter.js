@@ -81,20 +81,24 @@ class Newsletter extends Component {
             }
           })}
         </div>
-        <SkyLight
-          dialogStyles={dialog}
-          closeButtonStyle={closeButton}
-          hideOnOverlayClicked
-          ref={ref => (this.popup = ref)}
-          transitionDuration={50}
-        >
-          <div className="pop-up-header">
-            <h2>
-              <b>Folk ARPS bulletin board</b>
-            </h2>
-          </div>
-          <div className="formatted c">{renderElement}</div>
-        </SkyLight>
+        {
+          (typeof window !== 'undefined') ? 
+          <SkyLight
+            dialogStyles={dialog}
+            closeButtonStyle={closeButton}
+            hideOnOverlayClicked
+            ref={ref => (this.popup = ref)}
+            transitionDuration={50}
+          >
+            <div className="pop-up-header">
+              <h2>
+                <b>Folk ARPS bulletin board</b>
+              </h2>
+            </div>
+            <div className="formatted c">{renderElement}</div>
+          </SkyLight>
+          : <></>
+        }
       </React.Fragment>
     )
   }

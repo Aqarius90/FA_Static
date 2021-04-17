@@ -140,6 +140,16 @@ const Classified = () => (
         </a>{" "}
         - Boom shake shake rattle and roll (your view).
       </li>
+      <li>
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://steamcommunity.com/sharedfiles/filedetails/?id=1240323575"
+        >
+          Selective Hearing
+        </a>{" "}
+        - Modern version of Cyprus Push-to-Hear (use instead of not alongside)
+      </li>
     </ul>
     <p>
       <b>
