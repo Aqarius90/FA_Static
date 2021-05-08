@@ -114,7 +114,7 @@ const Classified = () => (
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="http://steamcommunity.com/sharedfiles/filedetails/?id=683611755"
+          href="https://steamcommunity.com/sharedfiles/filedetails/?id=1593431569"
         >
           Outlawled Mag repack
         </a>{" "}
