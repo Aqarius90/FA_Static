@@ -211,7 +211,7 @@ const Classified = () => (
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="http://www.armaholic.com/page.php?id=18963"
+          href="https://www.mediafire.com/file/jwficnehg3exy3j/%2540tao_foldmap_a3.zip/file"
         >
           TAO Fold Map
         </a>{" "}
